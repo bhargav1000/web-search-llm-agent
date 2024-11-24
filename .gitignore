@@ -1,0 +1,9 @@
+# macOS specific file
+.DS_Store
+
+# testing notebook
+search-agent.ipynb
+
+# environment file and cache
+.venv/
+__pycache__/
